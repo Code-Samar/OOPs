@@ -1,1 +1,3 @@
-# OOPs-C-
+# OOPs
+
+Concept of OOPs in C++
